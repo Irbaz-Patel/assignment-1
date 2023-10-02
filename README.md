@@ -8,7 +8,7 @@ This website allows you to easily search for cars by name, with a user-friendly 
 
 🛠️ Installation Steps:
 
-1.git clone https://github.com/your-username/news-api-react.git
+1.git clone https://github.com/Irbaz-Patel/assignment-1.git
 
 2.cd news-api-react
 
